@@ -32,7 +32,7 @@ By aligning your physical and emotional states, enhances workout consistency, im
 ---
 
 # Video Demo
-https://github.com/user-attachments/assets/4c8376a5-4053-4236-afbb-a39e7ce766b5
+https://github.com/user-attachments/assets/c9cfe1ba-130f-46b3-ada6-c0604b949fcc
 
 # Project PPT
 ## [VibeOut PPT](https://www.canva.com/design/DAGUdfW0gbw/_PlgamH-5vy_QzLTU7Rh_Q/edit?utm_content=DAGUdfW0gbw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
