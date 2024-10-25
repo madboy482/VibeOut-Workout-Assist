@@ -20,13 +20,6 @@ By aligning your physical and emotional states, enhances workout consistency, im
 
 ---
 
-# Video Demo
-https://github.com/user-attachments/assets/4c8376a5-4053-4236-afbb-a39e7ce766b5
-
-# Project PPT
-[VibeOut PPT](https://www.canva.com/design/DAGUdfW0gbw/_PlgamH-5vy_QzLTU7Rh_Q/edit?utm_content=DAGUdfW0gbw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
----
 ## Tech Stack Used
 ### > Frontend
 - React.js
@@ -35,3 +28,17 @@ https://github.com/user-attachments/assets/4c8376a5-4053-4236-afbb-a39e7ce766b5
 - Python
 - Fast API
 - Google Generative AI
+
+---
+
+# Video Demo
+https://github.com/user-attachments/assets/4c8376a5-4053-4236-afbb-a39e7ce766b5
+
+# Project PPT
+## [VibeOut PPT](https://www.canva.com/design/DAGUdfW0gbw/_PlgamH-5vy_QzLTU7Rh_Q/edit?utm_content=DAGUdfW0gbw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+# Project Images
+<img width="1470" alt="VibeOut" src="https://github.com/user-attachments/assets/ab227fd1-1655-42fa-bab8-30388d333e83">
+<img width="1470" alt="VibeOut" src="https://github.com/user-attachments/assets/64281f53-509d-4627-8cb1-3faf5adb3e15">
+<img width="1470" alt="VibeOut" src="https://github.com/user-attachments/assets/f884243b-4c9a-42e7-8bb0-23d8c2682a05">
+<img width="1470" alt="VibeOut" src="https://github.com/user-attachments/assets/9b967824-429a-4d14-a495-f3918b35178a">
