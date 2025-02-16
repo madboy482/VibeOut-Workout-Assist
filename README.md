@@ -1,10 +1,9 @@
-# AndroNova VibeOut
-## Team ID - 9ed34
+# Andronova VibeOut
 ## Team Members
 - Krish Kumar
 - Nalin Vijayvargiya
-- Lovansh Tewatia
-- Ritul Shekhar
+- Aayush Kumar
+- Bhavashesh Dachapalli
 
 ---
 
